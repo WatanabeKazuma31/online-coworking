@@ -1,0 +1,13 @@
+/* ボタン */
+.main-button {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  background-color: orange;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+  /* border-radius: 10px; */
+}
